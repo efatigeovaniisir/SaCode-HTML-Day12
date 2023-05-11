@@ -2,4 +2,4 @@
 Belajar Modifikasi Template HTML Free
 
 ## Hasil Demo
-bisa dilihat dilink berikut : https://efatigeovaniisir.github.io/SaCode-HTML-Day12/
+bisa dilihat di link berikut : https://efatigeovaniisir.github.io/SaCode-HTML-Day12/
